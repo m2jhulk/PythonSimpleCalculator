@@ -10,3 +10,5 @@ how to use:
   3 for ×
   4 for ÷
 done!
+
+this code is written by me, i have not copied it.
